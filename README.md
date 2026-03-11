@@ -1,7 +1,3 @@
-# Utleieanalyse (Phase 3)
-
-Mobilvennlig, klient-side kalkulator for utleieboliger. Beregner kontantstrøm, yield, gjeldsbetjening og egenkapital uten backend.
-
 ## Teknologi
 - React + TypeScript + Vite
 - Tailwind CSS
